@@ -2,7 +2,7 @@
 
 node.js
 
-## Instalation
+## Installation
 
 $ npm i
 

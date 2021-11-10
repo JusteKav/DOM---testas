@@ -1,0 +1,136 @@
+{
+  "Apartments": [
+    {
+      "id": "1",
+      "type": "flat",
+      "owner": {
+        "fullname": "Algimantas Aligimantinaitis",
+        "email": "algimantukas@gmail.com",
+        "phone": "861736488"
+      },
+      "roomCount": 4,
+      "squares": 105,
+      "address": {
+        "city": "Vilnius",
+        "country": "Lietuva",
+        "street": "Dangeručio g",
+        "number": "64"
+      },
+      "price": {
+        "amount": 100600,
+        "currency": "$"
+      },
+      "imgSrc": "https://aruodas-img.dgn.lt/object_62_100391225/vilnius-santariskes-dangerucio-g.jpg"
+    },
+    {
+      "id": "2",
+      "type": "house",
+      "owner": {
+        "fullname": "Burgis Burgelaitis",
+        "email": "burgiukas@gmail.com",
+        "phone": "861764977"
+      },
+      "roomCount": 8,
+      "squares": 400,
+      "address": {
+        "city": "Kaunas",
+        "country": "Lietuva",
+        "street": "Bajorų g.",
+        "number": "3"
+      },
+      "price": {
+        "amount": 540000,
+        "currency": "€"
+      },
+      "imgSrc": "https://aruodas-img.dgn.lt/object_62_88738495/kauno-r-sav-giraites-k-abrikosu-g.jpg"
+    },
+    {
+      "id": "3",
+      "type": "cottage",
+      "owner": {
+        "fullname": "Marijonas Marijonaitis",
+        "email": "marijoniukas@gmail.com",
+        "phone": "861738499"
+      },
+      "roomCount": 6,
+      "squares": 350,
+      "address": {
+        "city": "Klaipėda",
+        "country": "Lietuva",
+        "street": "Jūros g.",
+        "number": "78"
+      },
+      "price": {
+        "amount": 200500,
+        "currency": "€"
+      },
+      "imgSrc": "https://aruodas-img.dgn.lt/object_62_96497291/vilnius-traku-voke-antano-samuolio-g.jpg"
+    },
+    {
+      "id": "4",
+      "type": "flat",
+      "owner": {
+        "fullname": "Birutė Birutaitė",
+        "email": "barijuke@gmail.com",
+        "phone": "861529277"
+      },
+      "roomCount": 3,
+      "squares": 150,
+      "address": {
+        "city": "Kaunas",
+        "country": "Lietuva",
+        "street": "Mateikos g.",
+        "number": "13"
+      },
+      "price": {
+        "amount": 104000,
+        "currency": "$"
+      },
+      "imgSrc": "https://aruodas-img.dgn.lt/object_62_96497291/vilnius-traku-voke-antano-samuolio-g.jpg"
+    },
+    {
+      "id": "5",
+      "type": "house",
+      "owner": {
+        "fullname": "Morka Morkitytė",
+        "email": "morkiuke@gmail.com",
+        "phone": "863374788"
+      },
+      "roomCount": 6,
+      "squares": 200,
+      "address": {
+        "city": "Marijampolė",
+        "country": "Lietuva",
+        "street": "Miško g.",
+        "number": "10"
+      },
+      "price": {
+        "amount": 56000,
+        "currency": "€"
+      },
+      "imgSrc": "https://skelbiu-img.dgn.lt/1_18_3266943671/s-b-gulbinas.jpg"
+    },
+    {
+      "id": "6",
+      "type": "house",
+      "owner": {
+        "fullname": "Sausainis Sausinaitis",
+        "email": "sausainiukas@gmail.com",
+        "phone": "862271744"
+      },
+      "roomCount": 6,
+      "squares": 210,
+      "address": {
+        "city": "Druskininkai",
+        "country": "Lietuva",
+        "street": "Jaunystės g.",
+        "number": "15"
+      },
+      "price": {
+        "amount": 30000,
+        "currency": "€"
+      },
+      "imgSrc": "https://aruodas-img.dgn.lt/object_62_100090697/marijampoles-m-centras-vilkaviskio-g.jpg"
+    }
+  ]
+}

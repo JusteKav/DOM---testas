@@ -105,7 +105,7 @@ Eiga:
       - xs... - vienas elementas eilutėje
       - sm... - 2 eilementai eilutėje
       - lg... - 3 elementai eilutėje
-      - xl... - 4 elementai eilutėje
+      - xl... - 4 elementai eilutėje.
 
   8. ApartmentCardComponent klasėje įgalinkite komponento atvaizdavimą pagal this.props gautas reikšmes: [1]
     - Adresą pateikite kortelėje tokiu formatu: 'street-number, city, country.'

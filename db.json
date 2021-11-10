@@ -13,7 +13,7 @@
       "address": {
         "city": "Vilnius",
         "country": "Lietuva",
-        "street": "Dangeručio g",
+        "street": "Dangeručio g.",
         "number": "64"
       },
       "price": {
@@ -86,7 +86,7 @@
         "amount": 104000,
         "currency": "$"
       },
-      "imgSrc": "https://aruodas-img.dgn.lt/object_62_96497291/vilnius-traku-voke-antano-samuolio-g.jpg"
+      "imgSrc": "https://aruodas-img.dgn.lt/object_62_100411123/vilnius-pasilaiciai-budiniskiu-g.jpg"
     },
     {
       "id": "5",

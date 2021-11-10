@@ -2,10 +2,12 @@ const urlBase = "http://localhost:3000";
 
 class API {
   static getApartments = (resolve, reject) => {
-    fetch(urlBase + "/Apartments")
-      .then((data) => data.json())
-      .then(resolve)
-      .catch(reject);
+    setTimeout(() => {
+      fetch(urlBase + "/Apartments")
+        .then((data) => data.json())
+        .then(resolve)
+        .catch(reject);
+    }, 1000);
   };
 
   static deleteApartments = (id, resolve, reject) => {
